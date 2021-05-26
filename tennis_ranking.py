@@ -1,6 +1,6 @@
 #데이터 불러오기
 import pandas as pd
-tennis = pd.read_csv("/Users/jinchoi725/Desktop/atp_matches_winner.csv")
+tennis = pd.read_csv("./atp_matches_winner.csv")
 tennis
 
 
